@@ -1,0 +1,55 @@
+/*.top-bar {
+  background-color: yellow;
+}*/
+
+/*ul {
+  background-color: yellow;
+}
+
+.dropdown.menu {
+  background-color: yellow;
+
+}*/
+.hero {
+  color:white;
+}
+.hero {
+  /*background-color: blue;*/
+  height: 500px;
+  padding:60px;
+}
+
+.wrap {
+  margin: 0 auto;
+  max-width: 1000px;
+  height: 500px;
+  /*padding:60px;*/
+  /*background-color: yellow;*/
+}
+
+.row {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.blue.column {
+  background-color: blue;
+  margin: 0 auto;
+  /*width: 20%;*/
+  height: 50%;
+  max-width: 1000px;
+}
+
+.style {
+  {
+  volume: 1;
+  playbackRate: 1;
+  muted: true;
+  loop: true;
+  autoplay: true;
+  position: '50% 50%'; // Similar to the CSS `background-position` property.
+  posterType: 'detect', // Poster image type. "detect" — auto-detection; "none" — no poster; "jpg", "png", "gif",... - extensions.
+  resizing: true; // Auto-resizing, read: https://github.com/VodkaBears/Vide#resizing
+  bgColor: 'transparent'; // Allow custom background-color for Vide div,
+  className: ''; // Add custom CSS class to Vide div
+}
